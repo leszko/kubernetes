@@ -12,3 +12,16 @@ target/
 *.txt
 node_modules/
 package-lock.json
+
+## .NET
+*.deb
+*.suo
+*.user
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+publish/
+*.Publish.xml
